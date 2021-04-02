@@ -119,7 +119,7 @@ a {
 .showcase {
   width: 100%;
   height: 100%;
-  background-image: url("showcase.jpg");
+  background-image: url("../showcase.jpg");
   background-size: cover;
   background-position: bottom;
 }
