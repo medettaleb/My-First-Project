@@ -1,2 +1,3 @@
 # My-First-Project
-My Game Of Thrones Website
+Just testing my skills after learning the basics of html & css 
+https://medettaleb.github.io/My-First-Project/
